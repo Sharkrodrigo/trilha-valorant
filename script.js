@@ -7,11 +7,46 @@ const fases = [
         curso: "https://www.udemy.com/course/modulo-i-intro-html/?couponCode=ST15MT20425G3"
     },
     {
+        titulo: "🎨 CSS - Personalizando seu Estilo",
+        descricao: "Agora que você tem a estrutura, é hora de estilizar a interface com CSS, garantindo que sua aplicação fique bonita e responsiva.",
+        valorantTitulo: "🎯 Valorant Equivalente: Customizar sua mira e skins para ter um jogo mais fluido e estiloso.",
+        valorantDescricao: "CSS é como personalizar sua mira e skins. No começo, você joga com a mira padrão, mas conforme evolui, percebe que uma mira personalizada melhora sua precisão. No CSS, acontece o mesmo: você aprende a deixar a interface do site mais bonita, responsiva e estilosa.",
+        curso: null
+    },
+    {
+        titulo: "🛠️ Tailwind CSS - Estilizando com Eficiência",
+        descricao: "O Tailwind CSS permite que você estilize rapidamente sem precisar escrever CSS puro, tornando seu fluxo de trabalho mais ágil e eficiente.",
+        valorantTitulo: "🎯 Valorant Equivalente: Usar macros e atalhos para otimizar seu jogo.",
+        valorantDescricao: "Tailwind é como configurar atalhos no Valorant. Você poderia fazer tudo manualmente, mas com macros e atalhos, o jogo fica muito mais rápido. Tailwind permite estilizar sem precisar escrever tanto CSS manualmente, acelerando o desenvolvimento.",
+        curso: null
+    },
+    {
+        titulo: "🧠 UX Design - Criando Experiências de Qualidade",
+        descricao: "UX Design ajuda você a construir interfaces que fazem sentido para os usuários, garantindo uma experiência fluida e intuitiva.",
+        valorantTitulo: "🎯 Valorant Equivalente: Comunicação de time e leitura de jogo.",
+        valorantDescricao: "UX Design é como ter uma boa call no jogo. Se seu time não se comunica bem, as jogadas falham. No UX, se o design do site não for intuitivo, os usuários ficam perdidos. Esse curso te ensina a criar interfaces que os usuários entendem facilmente.",
+        curso: "https://www.udemy.com/course/ux-design/"
+    },
+    {
         titulo: "🟡 Fase 2: Agente Treinado - Melhorando sua Mira (JavaScript & Git)",
         descricao: "Agora que você domina os fundamentos, é hora de aprender JavaScript e controle de versão com Git e GitHub.",
         valorantTitulo: "🎯 Valorant Equivalente: Melhorar a mira e aprender a atirar corretamente.",
         valorantDescricao: "JavaScript é como treinar flick shots e recoil control. No começo, parece difícil, mas depois que você aprende a controlar o spray da Vandal, fica muito mais fácil acertar os tiros. JS é a linguagem que dá vida aos sites, permitindo interatividade e dinamismo.",
         curso: "https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?couponCode=ST15MT20425G3"
+    },
+    {
+        titulo: "🔗 Git e GitHub - Versionamento e Trabalho em Equipe",
+        descricao: "Aprenda a utilizar Git e GitHub para trabalhar com versionamento de código e colaboração eficiente em projetos.",
+        valorantTitulo: "🎯 Valorant Equivalente: Comunicação com o time e táticas de ataque.",
+        valorantDescricao: "GitHub é como um time bem coordenado no Valorant. Se todo mundo joga junto, trocando informações e se posicionando bem, as chances de ganhar aumentam. No GitHub, você aprende a colaborar em código, organizar versões e trabalhar em equipe sem conflitos.",
+        curso: "https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/"
+    },
+    {
+        titulo: "🟠 Fase 3: Especialização - Escolhendo Seu Agente (Frameworks de Front-End)",
+        descricao: "Agora é hora de escolher sua especialização! Você pode optar por um framework mais ágil como Next.js ou um mais estruturado como Angular.",
+        valorantTitulo: "🎯 Valorant Equivalente: Escolher seu agente principal.",
+        valorantDescricao: "Assim como no Valorant, onde cada agente tem habilidades diferentes, os frameworks possuem suas próprias vantagens. Você precisa escolher aquele que se encaixa melhor no seu estilo de jogo (desenvolvimento).",
+        curso: null
     },
     {
         titulo: "🔵 Next.js = Jett (Rápida, flexível e agressiva 💨)",
