@@ -21,7 +21,7 @@ const fases = [
         curso: null
     },
     {
-        titulo: "🧠 UX Design - Criando Experiências de Qualidade",
+        titulo: "🧠 UX Design 312321321132- Criando Experiências de Qualidade",
         descricao: "UX Design ajuda você a construir interfaces que fazem sentido para os usuários, garantindo uma experiência fluida e intuitiva.",
         valorantTitulo: "🎯 Valorant Equivalente: Comunicação de time e leitura de jogo.",
         valorantDescricao: "UX Design é como ter uma boa call no jogo. Se seu time não se comunica bem, as jogadas falham. No UX, se o design do site não for intuitivo, os usuários ficam perdidos. Esse curso te ensina a criar interfaces que os usuários entendem facilmente.",
