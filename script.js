@@ -56,7 +56,7 @@ const fases = [
         curso: "https://www.udemy.com/course/nextjs-zero-ao-avancado/"
     },
     {
-        titulo: "🔴 Angular = Brimstone (Estratégico, organizado e poderoso 💪)",
+        titulo: "🔴 Angular = KillJoy (Estratégico, organizado e poderoso 💪)",
         descricao: "Angular é um framework robusto e ideal para grandes equipes que trabalham em projetos de longo prazo e precisam de uma estrutura bem definida.",
         valorantTitulo: "🎯 Valorant Equivalente: Jogar de Brimstone e controlar o mapa.",
         valorantDescricao: "Angular é como jogar de Brimstone. Ele é estratégico, planejado e trabalha em equipe. Aplicações feitas com Angular são poderosas e confiáveis, rodando sistemas empresariais e plataformas corporativas como as usadas pelo Google e Microsoft.",
